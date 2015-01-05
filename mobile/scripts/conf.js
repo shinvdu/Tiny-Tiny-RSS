@@ -6,6 +6,6 @@
 define({
 
   /* URL to access your Tiny Tiny RSS installation */
-  window.apiPath: "http://rss.sky-city.me/api"
+  apiPath: "http://rss.sky-city.me/"
 
 });
