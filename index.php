@@ -54,7 +54,7 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-	<title>Tiny Tiny RSS</title>
+	<title>RSS for sky city</title>
 
 	<script type="text/javascript">
 		var __ttrss_version = "<?php echo VERSION ?>"
